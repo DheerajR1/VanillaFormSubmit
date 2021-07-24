@@ -7,7 +7,7 @@
 body {
     height: 100vh;
     display: flex;
-    background-color: rgb(68, 79, 180);
+    background-color: rgb(87, 189, 130);
     transition: background 0.5s ease;
     position: relative;
 }
@@ -24,7 +24,7 @@ body {
     height: 50px;
     width: 400px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     border-radius: 5px;
     border: none;
